@@ -1,6 +1,6 @@
 # Calculadora Java
 
-Este projeto explora os conceitos de uma estrutura organizacional (MVC) a qual dividimos as classes em diretórios de acorco com suas respectivas funções (view, model, controller).
+Este projeto explora os conceitos de uma estrutura organizacional (MVC) a qual dividimos as classes em diretórios de acordo com suas respectivas funções (view, model, controller).
 
 Também é explorado o conceito de Reflection, o que permite um maior dinamismo e flexibilidade ao projeto.
 
