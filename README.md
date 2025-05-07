@@ -8,4 +8,3 @@ A pasta "Calculadora" contém o projeto com o MVC aplicado mas sem os estudos so
 
 A pasta "CalculadoraWithReflection" contém o projeto com o MVC aplicado e os estudos sobre o conceito de Reflection.
 
-A pasta "CalculadoraWithLib" contém o projeto com o MVC aplicado, os estudos sobre o conceito de Reflection e com as novas funções raiz e potência, as quais são calculadas numa lib.
